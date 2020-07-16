@@ -2,4 +2,4 @@
 
 Overflow, Border, Padding, 
 
-![tugas6](screen/tugas6.css)
+![tugas6](screen/tugas6.png)
